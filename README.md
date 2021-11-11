@@ -23,6 +23,7 @@ Python script that takes liked videos on Youtube account, and generates a Spotif
      ```
    * Sign into your Google account to get the authorization code, and enter it to your terminal.
    * If the program runs successfully, the shell should return: `Response gave status code 201` <br><br>
+   * For troubleshooting purposes, Spotify tokens expire quickly and if you run into a `KeyError` this could be due to an expired token. At which point you will need to get a new token, and replace the old token in your secrets file.
 
 #### Technologies Used:
 

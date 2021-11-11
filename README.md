@@ -7,7 +7,7 @@ Python script that takes liked videos on Youtube account, and generates a Spotif
 1. Install dependencies using: `pip3 install -r requirements.txt`<br><br>
 2. Get your Spotify ID and Oauth Token using the Developers for Spotify [site](https://developer.spotify.com/console/post-playlists/).
     * To get Spotify ID, login to Spotify and visit the Account Overview [tab](https://www.spotify.com/us/account/overview/) to collect your username.
-    * To get Oauth token, visit this [link](https://developers.google.com/youtube/v3/getting-started), and click the "Get Token" button. <br><br> 
+    * To get Oauth token, visit this [link](https://developer.spotify.com/console/post-playlists/), and click the "Get Token" button. <br><br> 
 
 3. Set up Oauth on Youtube account and download client_secret.json file. 
     * Follow the instructions on the Youtube Data API Overview [site](https://developers.google.com/youtube/v3/getting-started).

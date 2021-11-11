@@ -30,4 +30,3 @@ Python script that takes liked videos on Youtube account, and generates a Spotif
 * [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
 * [Youtube Data API](https://developers.google.com/youtube/v3/getting-started)
 * [Youtube DL](https://github.com/ytdl-org/youtube-dl)
-<br><br>
